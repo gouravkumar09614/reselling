@@ -43,13 +43,13 @@ Perfect for **Minecraft Servers, Discord Bots, Web Hosting, VPN, Development and
 | 💾 Extra Storage | ₹50 / 25GB |
 | 🧠 Extra CPU Core | ₹99 / Core |
 | 🌐 Extra Bandwidth | ₹99 / 50GB |
-| 🌍 Additional IPv4 | On Request |
+| 🧠 AMD EPYC Processors | Extra Money Charges |
 
 ---
 
 # 🔧 Perfect For
 
-🎮 Minecraft Servers  
+🎮 Minecraft Servers Hostings  
 🤖 Discord Bots  
 🌐 Website Hosting  
 🔐 VPN Servers  
@@ -62,7 +62,7 @@ Perfect for **Minecraft Servers, Discord Bots, Web Hosting, VPN, Development and
 Our servers run on **enterprise-grade datacenter hardware**:
 
 • **Intel Xeon Platinum CPUs**  
-• **AMD EPYC Processors**  
+• **AMD EPYC Processors**  **(Extra Money Charges)**
 • Datacenter **NVMe SSD Storage**  
 • **1Gbps Dedicated Network Ports**
 
@@ -89,13 +89,14 @@ Our servers run on **enterprise-grade datacenter hardware**:
 Message on Discord for quick support
 
 📧 **What'sapp:**
+
 Message on What'sapp For More Details
 **+91 9888445252**
 
 📧 **Email:**  
 gouravwaliyan946@gmail.com
 
-⚡ **Response Time:** Usually within a few minutes
+⚡ **Response Time:** Usually within a few hours
 
 ---
 
