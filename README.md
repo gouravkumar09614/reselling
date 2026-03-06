@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-Online-brightgreen)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-blue)
+![Support](https://img.shields.io/badge/Support-24%2F7-green)
+
+
 # 🚀 DECKEN HOST – VPS Plans
 
 Affordable and high-performance VPS hosting powered by Intel Platinum & AMD EPYC processors.
